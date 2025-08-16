@@ -13,7 +13,6 @@ The dataset contains customer and campaign-related features, including:
 - **Age**: Customer’s age  
 - **Job**: Type of job  
 - **Marital**: Marital status  
-- **Education**: Education level  
 - **Housing**: Whether the customer has a housing loan  
 - **Loan**: Whether the customer has a personal loan  
 - **Contact**: Type of communication used (cellular, telephone, unknown)  
